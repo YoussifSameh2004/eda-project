@@ -8,7 +8,7 @@ reg clk;
 reg rst;
 reg [2:0] program_selection;
 reg start;
-reg doorclosed;
+reg doorclosed; 
 reg soap;
 
 // Outputs
